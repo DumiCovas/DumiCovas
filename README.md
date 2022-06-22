@@ -1,4 +1,1 @@
-- 👋 Hi, I’m DumiCovas
-- 👀 I’m interested in tech opportunities
-- 🌱 Knowledges your best pump 
-- 💞️ I’m looking to collaborate with strong company for new potential projects  
+Knowledges your best pump 
